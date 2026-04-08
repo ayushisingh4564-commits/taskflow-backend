@@ -1,6 +1,3 @@
 node_modules/
-src/node_modules/
 .env
-src/.env
-src/uploads/
 uploads/
